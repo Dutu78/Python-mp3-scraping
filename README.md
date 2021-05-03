@@ -12,7 +12,7 @@ How to use the script:
 
 ![Screenshot 2021-05-03 184534](https://user-images.githubusercontent.com/69846364/116899748-9c97a380-ac40-11eb-8345-7f6d1c8f202e.png)
 
-5. Open the new CSV file at the specified path by the script and see the result.
+5. Open the new CSV file at the specified path and see the result.
  
  ![Screenshot 2021-05-03 185856](https://user-images.githubusercontent.com/69846364/116900821-dcab5600-ac41-11eb-808d-7cdde96d66ce.png)
 
